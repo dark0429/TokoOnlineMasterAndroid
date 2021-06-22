@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TokoOnline.iml" filepath="$PROJECT_DIR$/.idea/TokoOnline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TokoOnline.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TokoOnline.app.iml" />
+    </modules>
+  </component>
+</project>
